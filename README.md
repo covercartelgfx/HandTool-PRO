@@ -10,9 +10,9 @@
   <img alt="Release HandTool PRO™" src="https://img.shields.io/badge/Release-HandTool%20PRO%E2%84%A2-black?style=flat-square&logo=github&logoColor=white">
   <img alt="macOS 13+" src="https://img.shields.io/badge/macOS-13%2B-black?style=flat-square&logo=apple&logoColor=white">
   <img alt="Windows 10+" src="https://img.shields.io/badge/Windows-10%2B-black?style=flat-square&logo=windows&logoColor=white">
-  <img alt="Swift 5" src="https://img.shields.io/badge/Swift-5-black?style=flat-square&logo=swift&logoColor=white">
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-Compatible-black?style=flat-square&logo=adobephotoshop&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/license-Freeware-black?style=flat-square">
+  <img alt="Swift 5" src="https://img.shields.io/badge/Swift-5.0-black?style=flat-square&logo=swift&logoColor=white">
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-All Builds-black?style=flat-square&logo=adobephotoshop&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/license-FromDaBlock-black?style=flat-square">
 </p>
 
 <p align="center">
@@ -31,6 +31,6 @@
 
 <p align="center">
   <a href="https://github.com/covercartelgfx/HandTool-PRO/releases/tag/HandToolPRO%E2%84%A2">
-    <img src="https://img.shields.io/badge/Download-HandTool%20PRO%E2%84%A2-black?style=for-the-badge" alt="Download HandTool PRO">
+    <img src="https://img.shields.io/badge/Download-HandTool%20PRO%E2%84%A2-30D158?style=for-the-badge&logo=apple&logoColor=white" alt="Download HandTool PRO">
   </a>
 </p>
