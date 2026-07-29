@@ -22,6 +22,6 @@
 
 <p align="center">
   <a href="https://github.com/covercartelgfx/HandTool-PRO/releases/tag/HandToolPRO%E2%84%A2">
-    <img src="https://img.shields.io/badge/Download-HandTool%20PRO%E2%84%A2-orange?style=for-the-badge" alt="Download HandTool PRO">
+    <img src="https://img.shields.io/badge/Download-HandTool%20PRO%E2%84%A2-blue?style=for-the-badge" alt="Download HandTool PRO">
   </a>
 </p>
