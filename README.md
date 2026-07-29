@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  Research and Development ©2026 By <a href="https://www.instagram.com/covercartel.gfx/">COVER CARTEL</a>
+  Research and Development ©2077 By <a href="https://www.instagram.com/covercartel.gfx/">COVER CARTEL</a>
 </p>
 
 <p align="center">
