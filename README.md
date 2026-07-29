@@ -7,12 +7,18 @@
 <h1 align="center">HandTool PRO™</h1>
 
 <p align="center">
-  <a href="https://github.com/covercartelgfx/HandTool-PRO/releases">
-    <img alt="Download HandTool PRO™" src="https://img.shields.io/github/v/release/covercartelgfx/HandTool-PRO?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/covercartelgfx/HandTool-PRO/releases" style="text-decoration:none;">
+    <img alt="Download HandTool PRO™" src="https://img.shields.io/badge/Release-HandTool%20PRO%E2%84%A2-34C759?style=flat-square&logo=github&logoColor=white">
   </a>
+  &nbsp;
   <img alt="macOS 13+" src="https://img.shields.io/badge/macOS-13%2B-black?style=flat-square&logo=apple">
+  &nbsp;
+  <img alt="Windows 10+" src="https://img.shields.io/badge/Windows-10%2B-black?style=flat-square&logo=windows">
+  &nbsp;
   <img alt="Swift 5" src="https://img.shields.io/badge/Swift-5-black?style=flat-square&logo=swift">
+  &nbsp;
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-Compatible-black?style=flat-square&logo=adobephotoshop">
+  &nbsp;
   <img alt="License" src="https://img.shields.io/badge/license-Freeware-black?style=flat-square">
 </p>
 
