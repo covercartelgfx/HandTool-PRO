@@ -2,6 +2,7 @@
 
 
 Version 2.2
+
 By @covercartel.gfx
 
 A lightweight utility that enables Photoshop Hand Tool functionality via middle-click.
